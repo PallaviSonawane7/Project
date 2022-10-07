@@ -1,6 +1,6 @@
 
 # Emotion Prediction On Twitter Data Using NLP
-![Logo]((https://github.com/PallaviSonawane7/Project/blob/main/Images/Logo1.png)
+![Logo](https://github.com/PallaviSonawane7/Project/blob/main/Images/Logo1.png)
 ## Introduction
 Technology today has become a momentous driving vehicle for communication worldwide.
 Social media platforms like Twitter, Facebook, and Instagram are the most important arenas for expressing views on transformations happening in and around the world every day. 
@@ -9,9 +9,6 @@ This project reflects the idea of considering user opinions performing sentiment
 Sentiment analysis desires to obtain sentiment polarity (positive or negative) and Emotion analysis intends to obtain emotion ( empty, sadness, anger, surprise, hate, love etc.,) from user data. 
 Such analysis essentially serves as a gateway for consumer needs and generates growth opportunities in businesses.
 It can help in analyzing the mistake and recovering the respective aspects and it is very helpful in new product launching or making any modification to current product to increase the sale.
-
-
-
 
 ## Challenges
 - Lack of resources
