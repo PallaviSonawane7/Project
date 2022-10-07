@@ -1,6 +1,5 @@
 # Emotion Prediction On Twitter Data Using NLP
-
-# Emotion Prediction On Twitter Data Using NLP
+![Logo](![Dataset Graph](https://github.com/PallaviSonawane7/Project/blob/main/Images/Logo1.png)
 ## Introduction
 Technology today has become a momentous driving vehicle for communication worldwide.
 Social media platforms like Twitter, Facebook, and Instagram are the most important arenas for expressing views on transformations happening in and around the world every day. 
@@ -24,11 +23,11 @@ It can help in analyzing the mistake and recovering the respective aspects and i
 
 ## Solutions & Approaches
 - Data Collection
-- Data Cleaning
+- Data Cleaning, Pre-processing & Visualisation
 - Model Selection
-    1. ML: (Support Vector Machines, Decision Tree, Logistic Regression, Multinomial Naïve Bayes)
+    1. ML: Support Vector Machines, Decision Tree, Logistic Regression, Multinomial Naïve Bayes
     2. RNN: Neural Network where the output from the previous step is fed as input to the current step
-    3. LSTM: LSTM stands for Long-Short Term Memory. LSTM is a type of recurrent neural network but is better than traditional recurrent neural networks in terms of    memory.
+    3. LSTM: LSTM stands for Long-Short Term Memory. LSTM is a type of recurrent neural network but is better than traditional recurrent neural networks in terms of memory.
     4. BERT: BERT stands for Bidirectional Encoder Representations from Transformers and it is a state-of-the-art machine learning model used for NLP tasks
 
 - Obtain  Accuracy
@@ -87,9 +86,9 @@ I've always been passionate about learning latest technologies, Currently seekin
 
 
 ## 🛠 Skills
-  - HMI/ SCADA & PLC Programming, Make: Siemens/Omron/Delta/Schneider Electric; Control Panels,Robotics
   - Programming Language: Python, Scikit-Learn, Tensorflow, Keras, NLTK, Numpy, Matplotlib, Sklearn, OpenCV,VbScript.
   - Data Analytics, Statistics, Machine Learning, Deep Neural N/w, Cloud Computing, NLP
+  - HMI/ SCADA & PLC Programming, Make: Siemens/Omron/Delta/Schneider Electric; Control Panels,Robotics
   - Other Software Tool: Tableau, AWS Services, Autocad.
   - Flexibility and Adaptability
   - Ability to Work Under Pressure
