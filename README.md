@@ -1,6 +1,6 @@
 
 # Emotion Prediction On Twitter Data Using NLP
- ![Logo](https://github.com/PallaviSonawane7/Project/blob/main/Images/Logo1.png)
+ ![Logo](https://github.com/PallaviSonawane7/Project/blob/main/Images/Logo1.png)  ![Logo](https://github.com/PallaviSonawane7/Project/blob/main/Images/Logo1.png)
 ## Introduction
 Technology today has become a momentous driving vehicle for communication worldwide.
 Social media platforms like Twitter, Facebook, and Instagram are the most important arenas for expressing views on transformations happening in and around the world every day. 
